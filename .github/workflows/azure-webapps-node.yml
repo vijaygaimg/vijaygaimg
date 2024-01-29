@@ -1,5 +1,15 @@
-mkdir hello-world
+<p>
+This paragraph
+contains a lot of lines
+in the source code,
+but the browser
+ignores it.
+</p>
 
-cd hello-worldgit initconsole.log("Hello World!");git add .
-
-git commit -m "Initial commit"git remote add origin <https://github.com/><your-username>/<your-repo-name>.gitgit push -u origin master
+<p>
+This paragraph
+contains         a lot of spaces
+in the source         code,
+but the        browser
+ignores it.
+</p>
